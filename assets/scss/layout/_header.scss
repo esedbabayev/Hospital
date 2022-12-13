@@ -1,0 +1,18 @@
+.z{
+    z-index: 99;
+}
+.primary-bg{
+    background-color: #272dc1 !important;
+}
+.primary-bg-hover:hover{
+    transition-duration: 0.2s;
+    background-color: #415dd7 !important;
+}
+.underline{
+    color: white;
+    
+}
+.underline:hover{
+    text-decoration: underline;
+    visibility: visible;
+}

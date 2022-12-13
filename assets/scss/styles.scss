@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@import './mixins/_mixin.scss';
+
+@import './layout/_header.scss';
+@import './layout/_footer.scss';
+@import './home/_home.scss';
+@import './cont-loc/_cont-loc.scss';
+@import './person/_person.scss';
+

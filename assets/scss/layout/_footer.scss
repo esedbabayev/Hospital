@@ -1,0 +1,19 @@
+.foot{
+    .comtainer{
+        
+        div{
+
+            ul{
+                li{
+                    .hov-li{
+                        color: grey !important;
+                        transition-duration: 0.3s;
+                    }
+                    .hov-li:hover{
+                        color: rgb(0, 0, 0) !important;
+                    }
+                }
+            }
+        }
+    }
+}

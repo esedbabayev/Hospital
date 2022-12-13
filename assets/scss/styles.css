@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.z {
+  z-index: 99;
+}
+
+.primary-bg {
+  background-color: #272dc1 !important;
+}
+
+.primary-bg-hover:hover {
+  transition-duration: 0.2s;
+  background-color: #415dd7 !important;
+}
+
+.underline {
+  color: white;
+}
+
+.underline:hover {
+  text-decoration: underline;
+  visibility: visible;
+}
+
+.foot .comtainer div ul li .hov-li {
+  color: grey !important;
+  transition-duration: 0.3s;
+}
+.foot .comtainer div ul li .hov-li:hover {
+  color: rgb(0, 0, 0) !important;
+}
+
+.sec1 {
+  height: 60vh;
+  margin-top: 6%;
+}
+.sec1 img-div {
+  margin-right: 20%;
+}
+.sec1 img-div .img-right {
+  background: cover no-repeat;
+}
+
+.bg-no-repeat-cover {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
